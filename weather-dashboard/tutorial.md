@@ -6,6 +6,8 @@ This is not just a *tutorial* but a wandering journey through code and weather p
 
 With that in mind, let's venture into the complex landscape of Retool, where we'll bind APIs to data visualization, and bring the weather into your hands. A classic task for the modern technologist—or perhaps the poet who dares to dream about tomorrow’s sun and storms. 🌧️ ⛅ 🌞
 
+![Weather Dashboard in Action](weather-dashboard/weather-dashboard.png)
+
 ## Part 1: Before We Begin, Let’s Set the Stage
 
 In Retool, each app is a collection of components (widgets, charts, and textboxes) that are hooked up to queries that fetch data from various resources like APIs, databases, or services. At the core of this app is weather data—a thing as old as the Earth itself but displayed anew in the bright glow of Retool’s user interface.
