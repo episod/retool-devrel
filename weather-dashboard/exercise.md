@@ -1,4 +1,4 @@
-# Developer relations at Retool execrise
+# Developer relations at Retool exercise
 
 In Retool developer relations, we want to inspire developers to not only build great apps but inspire others, often in the same organization, to build great apps too!
 
